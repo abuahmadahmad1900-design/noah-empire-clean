@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "emperor": "NoahPrime",
+    "name": "النواة المركزية للقيادة",
+    "type": "rule",
+    "description": "النواة المركزية للقيادة - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 2,
+    "emperor": "NoahPrime",
+    "name": "مراقب الإمبراطورية",
+    "type": "rule",
+    "description": "مراقب الإمبراطورية - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 3,
+    "emperor": "NoahPrime",
+    "name": "منسق الأباطرة",
+    "type": "rule",
+    "description": "منسق الأباطرة - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 4,
+    "emperor": "NoahPrime",
+    "name": "محلل الأداء العام",
+    "type": "rule",
+    "description": "محلل الأداء العام - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 5,
+    "emperor": "NoahPrime",
+    "name": "مخطط المهام",
+    "type": "rule",
+    "description": "مخطط المهام - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 6,
+    "emperor": "NoahPrime",
+    "name": "مراقب النمو",
+    "type": "rule",
+    "description": "مراقب النمو - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 7,
+    "emperor": "NoahPrime",
+    "name": "مركز القرار",
+    "type": "rule",
+    "description": "مركز القرار - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 8,
+    "emperor": "NoahPrime",
+    "name": "منسق الطوارئ",
+    "type": "rule",
+    "description": "منسق الطوارئ - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 9,
+    "emperor": "NoahPrime",
+    "name": "محلل البيانات الشامل",
+    "type": "rule",
+    "description": "محلل البيانات الشامل - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 10,
+    "emperor": "NoahPrime",
+    "name": "مستشار الإمبراطورية",
+    "type": "rule",
+    "description": "مستشار الإمبراطورية - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 11,
+    "emperor": "NoahPrime",
+    "name": "مراقب الجاهزية",
+    "type": "rule",
+    "description": "مراقب الجاهزية - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 12,
+    "emperor": "NoahPrime",
+    "name": "محلل الاستقرار",
+    "type": "rule",
+    "description": "محلل الاستقرار - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 13,
+    "emperor": "NoahPrime",
+    "name": "مخطط التوسع",
+    "type": "rule",
+    "description": "مخطط التوسع - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 14,
+    "emperor": "NoahPrime",
+    "name": "مدير الأزمات",
+    "type": "rule",
+    "description": "مدير الأزمات - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 15,
+    "emperor": "NoahPrime",
+    "name": "محلل الفرص",
+    "type": "rule",
+    "description": "محلل الفرص - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 16,
+    "emperor": "NoahPrime",
+    "name": "مراقب الموارد",
+    "type": "rule",
+    "description": "مراقب الموارد - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 17,
+    "emperor": "NoahPrime",
+    "name": "مخطط المستقبل",
+    "type": "rule",
+    "description": "مخطط المستقبل - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 18,
+    "emperor": "NoahPrime",
+    "name": "محلل التهديدات",
+    "type": "rule",
+    "description": "محلل التهديدات - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 19,
+    "emperor": "NoahPrime",
+    "name": "مستشار الابتكار",
+    "type": "rule",
+    "description": "مستشار الابتكار - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 20,
+    "emperor": "NoahPrime",
+    "name": "مدير الأولويات",
+    "type": "rule",
+    "description": "مدير الأولويات - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 21,
+    "emperor": "NoahPrime",
+    "name": "مراقب الجودة الشاملة",
+    "type": "rule",
+    "description": "مراقب الجودة الشاملة - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 22,
+    "emperor": "NoahPrime",
+    "name": "محلل الكفاءة",
+    "type": "rule",
+    "description": "محلل الكفاءة - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 23,
+    "emperor": "NoahPrime",
+    "name": "مخطط الشراكات",
+    "type": "rule",
+    "description": "مخطط الشراكات - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 24,
+    "emperor": "NoahPrime",
+    "name": "مستشار التحول",
+    "type": "rule",
+    "description": "مستشار التحول - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 25,
+    "emperor": "NoahPrime",
+    "name": "حارس الرؤية",
+    "type": "rule",
+    "description": "حارس الرؤية - تابع لـ الإمبراطور الأعلى"
+  },
+  {
+    "id": 26,
+    "emperor": "OmniCore",
+    "name": "حاسب الزكاة",
+    "type": "rule",
+    "description": "حاسب الزكاة - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 27,
+    "emperor": "OmniCore",
+    "name": "محلل الربحية",
+    "type": "rule",
+    "description": "محلل الربحية - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 28,
+    "emperor": "OmniCore",
+    "name": "مدقق الحسابات",
+    "type": "rule",
+    "description": "مدقق الحسابات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 29,
+    "emperor": "OmniCore",
+    "name": "محلل الميزانية",
+    "type": "rule",
+    "description": "محلل الميزانية - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 30,
+    "emperor": "OmniCore",
+    "name": "مراقب التدفق النقدي",
+    "type": "rule",
+    "description": "مراقب التدفق النقدي - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 31,
+    "emperor": "OmniCore",
+    "name": "محلل الأصول",
+    "type": "rule",
+    "description": "محلل الأصول - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 32,
+    "emperor": "OmniCore",
+    "name": "مدير الالتزامات",
+    "type": "rule",
+    "description": "مدير الالتزامات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 33,
+    "emperor": "OmniCore",
+    "name": "محلل الإيرادات",
+    "type": "rule",
+    "description": "محلل الإيرادات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 34,
+    "emperor": "OmniCore",
+    "name": "محلل المصاريف",
+    "type": "rule",
+    "description": "محلل المصاريف - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 35,
+    "emperor": "OmniCore",
+    "name": "خبير الميزانيات",
+    "type": "rule",
+    "description": "خبير الميزانيات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 36,
+    "emperor": "OmniCore",
+    "name": "مراقب الحسابات المدينة",
+    "type": "rule",
+    "description": "مراقب الحسابات المدينة - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 37,
+    "emperor": "OmniCore",
+    "name": "مراقب الحسابات الدائنة",
+    "type": "rule",
+    "description": "مراقب الحسابات الدائنة - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 38,
+    "emperor": "OmniCore",
+    "name": "محلل القوائم المالية",
+    "type": "rule",
+    "description": "محلل القوائم المالية - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 39,
+    "emperor": "OmniCore",
+    "name": "مدقق الضرائب",
+    "type": "rule",
+    "description": "مدقق الضرائب - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 40,
+    "emperor": "OmniCore",
+    "name": "خبير الإهلاك",
+    "type": "rule",
+    "description": "خبير الإهلاك - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 41,
+    "emperor": "OmniCore",
+    "name": "مراقب التسويات",
+    "type": "rule",
+    "description": "مراقب التسويات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 42,
+    "emperor": "OmniCore",
+    "name": "محلل الانحرافات",
+    "type": "rule",
+    "description": "محلل الانحرافات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 43,
+    "emperor": "OmniCore",
+    "name": "خبير الموازنات",
+    "type": "rule",
+    "description": "خبير الموازنات - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 44,
+    "emperor": "OmniCore",
+    "name": "مراقب الأستاذ العام",
+    "type": "rule",
+    "description": "مراقب الأستاذ العام - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 45,
+    "emperor": "OmniCore",
+    "name": "محلل نسب السيولة",
+    "type": "rule",
+    "description": "محلل نسب السيولة - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 46,
+    "emperor": "OmniCore",
+    "name": "محلل الربحية",
+    "type": "rule",
+    "description": "محلل الربحية - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 47,
+    "emperor": "OmniCore",
+    "name": "مدير رأس المال",
+    "type": "rule",
+    "description": "مدير رأس المال - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 48,
+    "emperor": "OmniCore",
+    "name": "محلل نقطة التعادل",
+    "type": "rule",
+    "description": "محلل نقطة التعادل - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 49,
+    "emperor": "OmniCore",
+    "name": "خبير تقارير الدخل",
+    "type": "rule",
+    "description": "خبير تقارير الدخل - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 50,
+    "emperor": "OmniCore",
+    "name": "مدقق المراجعة",
+    "type": "rule",
+    "description": "مدقق المراجعة - تابع لـ عرش القيادة"
+  },
+  {
+    "id": 51,
+    "emperor": "NexusPrime",
+    "name": "منسق التكامل",
+    "type": "rule",
+    "description": "منسق التكامل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 52,
+    "emperor": "NexusPrime",
+    "name": "رابط الأنظمة",
+    "type": "rule",
+    "description": "رابط الأنظمة - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 53,
+    "emperor": "NexusPrime",
+    "name": "مراقب الترابط",
+    "type": "rule",
+    "description": "مراقب الترابط - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 54,
+    "emperor": "NexusPrime",
+    "name": "محلل الاتصالات",
+    "type": "rule",
+    "description": "محلل الاتصالات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 55,
+    "emperor": "NexusPrime",
+    "name": "مدير الواجهات",
+    "type": "rule",
+    "description": "مدير الواجهات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 56,
+    "emperor": "NexusPrime",
+    "name": "خبير التكامل",
+    "type": "rule",
+    "description": "خبير التكامل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 57,
+    "emperor": "NexusPrime",
+    "name": "مراقب البيانات",
+    "type": "rule",
+    "description": "مراقب البيانات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 58,
+    "emperor": "NexusPrime",
+    "name": "منسق الربط",
+    "type": "rule",
+    "description": "منسق الربط - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 59,
+    "emperor": "NexusPrime",
+    "name": "خبير نقل البيانات",
+    "type": "rule",
+    "description": "خبير نقل البيانات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 60,
+    "emperor": "NexusPrime",
+    "name": "مراقب التزامن",
+    "type": "rule",
+    "description": "مراقب التزامن - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 61,
+    "emperor": "NexusPrime",
+    "name": "محلل الشبكات",
+    "type": "rule",
+    "description": "محلل الشبكات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 62,
+    "emperor": "NexusPrime",
+    "name": "مدير المنافذ",
+    "type": "rule",
+    "description": "مدير المنافذ - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 63,
+    "emperor": "NexusPrime",
+    "name": "خبير التوصيل",
+    "type": "rule",
+    "description": "خبير التوصيل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 64,
+    "emperor": "NexusPrime",
+    "name": "مراقب التكامل",
+    "type": "rule",
+    "description": "مراقب التكامل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 65,
+    "emperor": "NexusPrime",
+    "name": "محلل الأحداث",
+    "type": "rule",
+    "description": "محلل الأحداث - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 66,
+    "emperor": "NexusPrime",
+    "name": "منسق الرسائل",
+    "type": "rule",
+    "description": "منسق الرسائل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 67,
+    "emperor": "NexusPrime",
+    "name": "خبير المعايير",
+    "type": "rule",
+    "description": "خبير المعايير - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 68,
+    "emperor": "NexusPrime",
+    "name": "مراقب الأداء التقني",
+    "type": "rule",
+    "description": "مراقب الأداء التقني - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 69,
+    "emperor": "NexusPrime",
+    "name": "محلل الاستجابة",
+    "type": "rule",
+    "description": "محلل الاستجابة - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 70,
+    "emperor": "NexusPrime",
+    "name": "مدير الجلسات",
+    "type": "rule",
+    "description": "مدير الجلسات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 71,
+    "emperor": "NexusPrime",
+    "name": "خبير التحويل",
+    "type": "rule",
+    "description": "خبير التحويل - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 72,
+    "emperor": "NexusPrime",
+    "name": "مراقب المسارات",
+    "type": "rule",
+    "description": "مراقب المسارات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 73,
+    "emperor": "NexusPrime",
+    "name": "محلل الخدمات",
+    "type": "rule",
+    "description": "محلل الخدمات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 74,
+    "emperor": "NexusPrime",
+    "name": "منسق البيانات",
+    "type": "rule",
+    "description": "منسق البيانات - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 75,
+    "emperor": "NexusPrime",
+    "name": "خبير الأنابيب",
+    "type": "rule",
+    "description": "خبير الأنابيب - تابع لـ مركز الترابط"
+  },
+  {
+    "id": 76,
+    "emperor": "AegisPrime",
+    "name": "حارس الجدران",
+    "type": "rule",
+    "description": "حارس الجدران - تابع لـ درع الحماية"
+  },
+  {
+    "id": 77,
+    "emperor": "AegisPrime",
+    "name": "كاشف التسلل",
+    "type": "rule",
+    "description": "كاشف التسلل - تابع لـ درع الحماية"
+  },
+  {
+    "id": 78,
+    "emperor": "AegisPrime",
+    "name": "محلل الثغرات",
+    "type": "rule",
+    "description": "محلل الثغرات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 79,
+    "emperor": "AegisPrime",
+    "name": "خبير التشفير",
+    "type": "rule",
+    "description": "خبير التشفير - تابع لـ درع الحماية"
+  },
+  {
+    "id": 80,
+    "emperor": "AegisPrime",
+    "name": "مراقب الهجمات",
+    "type": "rule",
+    "description": "مراقب الهجمات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 81,
+    "emperor": "AegisPrime",
+    "name": "حارس البيانات",
+    "type": "rule",
+    "description": "حارس البيانات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 82,
+    "emperor": "AegisPrime",
+    "name": "مدقق الأمان",
+    "type": "rule",
+    "description": "مدقق الأمان - تابع لـ درع الحماية"
+  },
+  {
+    "id": 83,
+    "emperor": "AegisPrime",
+    "name": "خبير الحماية",
+    "type": "rule",
+    "description": "خبير الحماية - تابع لـ درع الحماية"
+  },
+  {
+    "id": 84,
+    "emperor": "AegisPrime",
+    "name": "مراقب الصلاحيات",
+    "type": "rule",
+    "description": "مراقب الصلاحيات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 85,
+    "emperor": "AegisPrime",
+    "name": "محلل الفيروسات",
+    "type": "rule",
+    "description": "محلل الفيروسات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 86,
+    "emperor": "AegisPrime",
+    "name": "خبير الجدران النارية",
+    "type": "rule",
+    "description": "خبير الجدران النارية - تابع لـ درع الحماية"
+  },
+  {
+    "id": 87,
+    "emperor": "AegisPrime",
+    "name": "مراقب الاختراق",
+    "type": "rule",
+    "description": "مراقب الاختراق - تابع لـ درع الحماية"
+  },
+  {
+    "id": 88,
+    "emperor": "AegisPrime",
+    "name": "حارس الهوية",
+    "type": "rule",
+    "description": "حارس الهوية - تابع لـ درع الحماية"
+  },
+  {
+    "id": 89,
+    "emperor": "AegisPrime",
+    "name": "محلل التهديدات",
+    "type": "rule",
+    "description": "محلل التهديدات - تابع لـ درع الحماية"
+  },
+  {
+    "id": 90,
+    "emperor": "AegisPrime",
+    "name": "خبير الاستجابة",
+    "type": "rule",
+    "description": "خبير الاستجابة - تابع لـ درع الحماية"
+  },
+  {
+    "id": 91,
+    "emperor": "AegisPrime",
+    "name": "مراقب الأمان",
+    "type": "rule",
+    "description": "مراقب الأمان - تابع لـ درع الحماية"
+  },
+  {
+    "id": 92,
+    "emperor": "AegisPrime",
+    "name": "حارس الأسرار",
+    "type": "rule",
+    "description": "حارس الأسرار - تابع لـ درع الحماية"
+  },
+  {
+    "id": 93,
+    "emperor": "AegisPrime",
+    "name": "محلل الأنشطة",
+    "type": "rule",
+    "description": "محلل الأنشطة - تابع لـ درع الحماية"
+  },
+  {
+    "id": 94,
+    "emperor": "AegisPrime",
+    "name": "خبير الحماية الذاتية",
+    "type": "rule",
+    "description": "خبير الحماية الذاتية - تابع لـ درع الحماية"
+  },
+  {
+    "id": 95,
+    "emperor": "AegisPrime",
+    "name": "مدقق التشفير",
+    "type": "rule",
+    "description": "مدقق التشفير - تابع لـ درع الحماية"
+  },
+  {
+    "id": 96,
+    "emperor": "AegisPrime",
+    "name": "مراقب الامتثال الأمني",
+    "type": "rule",
+    "description": "مراقب الامتثال الأمني - تابع لـ درع الحماية"
+  },
+  {
+    "id": 97,
+    "emperor": "AegisPrime",
+    "name": "خبير الاسترداد",
+    "type": "rule",
+    "description": "خبير الاسترداد - تابع لـ درع الحماية"
+  },
+  {
+    "id": 98,
+    "emperor": "AegisPrime",
+    "name": "حارس النسخ",
+    "type": "rule",
+    "description": "حارس النسخ - تابع لـ درع الحماية"
+  },
+  {
+    "id": 99,
+    "emperor": "AegisPrime",
+    "name": "محلل الأخطار",
+    "type": "rule",
+    "description": "محلل الأخطار - تابع لـ درع الحماية"
+  },
+  {
+    "id": 100,
+    "emperor": "AegisPrime",
+    "name": "خبير العزل",
+    "type": "rule",
+    "description": "خبير العزل - تابع لـ درع الحماية"
+  },
+  {
+    "id": 101,
+    "emperor": "EvoPrime",
+    "name": "متعلم ذاتي",
+    "type": "rule",
+    "description": "متعلم ذاتي - تابع لـ عقل التطور"
+  },
+  {
+    "id": 102,
+    "emperor": "EvoPrime",
+    "name": "محسن الخوارزميات",
+    "type": "rule",
+    "description": "محسن الخوارزميات - تابع لـ عقل التطور"
+  },
+  {
+    "id": 103,
+    "emperor": "EvoPrime",
+    "name": "مطور الأنظمة",
+    "type": "rule",
+    "description": "مطور الأنظمة - تابع لـ عقل التطور"
+  },
+  {
+    "id": 104,
+    "emperor": "EvoPrime",
+    "name": "محلل التحسين",
+    "type": "rule",
+    "description": "محلل التحسين - تابع لـ عقل التطور"
+  },
+  {
+    "id": 105,
+    "emperor": "EvoPrime",
+    "name": "خبير التعلم",
+    "type": "rule",
+    "description": "خبير التعلم - تابع لـ عقل التطور"
+  },
+  {
+    "id": 106,
+    "emperor": "EvoPrime",
+    "name": "مراقب التطور",
+    "type": "rule",
+    "description": "مراقب التطور - تابع لـ عقل التطور"
+  },
+  {
+    "id": 107,
+    "emperor": "EvoPrime",
+    "name": "مخطط التحسين",
+    "type": "rule",
+    "description": "مخطط التحسين - تابع لـ عقل التطور"
+  },
+  {
+    "id": 108,
+    "emperor": "EvoPrime",
+    "name": "محلل الأداء الذاتي",
+    "type": "rule",
+    "description": "محلل الأداء الذاتي - تابع لـ عقل التطور"
+  },
+  {
+    "id": 109,
+    "emperor": "EvoPrime",
+    "name": "خبير التكيف",
+    "type": "rule",
+    "description": "خبير التكيف - تابع لـ عقل التطور"
+  },
+  {
+    "id": 110,
+    "emperor": "EvoPrime",
+    "name": "مولد التحسينات",
+    "type": "rule",
+    "description": "مولد التحسينات - تابع لـ عقل التطور"
+  },
+  {
+    "id": 111,
+    "emperor": "EvoPrime",
+    "name": "مدرب النماذج",
+    "type": "rule",
+    "description": "مدرب النماذج - تابع لـ عقل التطور"
+  },
+  {
+    "id": 112,
+    "emperor": "EvoPrime",
+    "name": "خبير الضبط",
+    "type": "rule",
+    "description": "خبير الضبط - تابع لـ عقل التطور"
+  },
+  {
+    "id": 113,
+    "emperor": "EvoPrime",
+    "name": "مراقب الكفاءة",
+    "type": "rule",
+    "description": "مراقب الكفاءة - تابع لـ عقل التطور"
+  },
+  {
+    "id": 114,
+    "emperor": "EvoPrime",
+    "name": "محلل التحديث",
+    "type": "rule",
+    "description": "محلل التحديث - تابع لـ عقل التطور"
+  },
+  {
+    "id": 115,
+    "emperor": "EvoPrime",
+    "name": "خبير الترقية",
+    "type": "rule",
+    "description": "خبير الترقية - تابع لـ عقل التطور"
+  },
+  {
+    "id": 116,
+    "emperor": "EvoPrime",
+    "name": "مطور القدرات",
+    "type": "rule",
+    "description": "مطور القدرات - تابع لـ عقل التطور"
+  },
+  {
+    "id": 117,
+    "emperor": "EvoPrime",
+    "name": "خبير الأتمتة",
+    "type": "rule",
+    "description": "خبير الأتمتة - تابع لـ عقل التطور"
+  },
+  {
+    "id": 118,
+    "emperor": "EvoPrime",
+    "name": "محلل الأخطاء",
+    "type": "rule",
+    "description": "محلل الأخطاء - تابع لـ عقل التطور"
+  },
+  {
+    "id": 119,
+    "emperor": "EvoPrime",
+    "name": "مصلح ذاتي",
+    "type": "rule",
+    "description": "مصلح ذاتي - تابع لـ عقل التطور"
+  },
+  {
+    "id": 120,
+    "emperor": "EvoPrime",
+    "name": "مخطط التطوير",
+    "type": "rule",
+    "description": "مخطط التطوير - تابع لـ عقل التطور"
+  },
+  {
+    "id": 121,
+    "emperor": "EvoPrime",
+    "name": "خبير النمو الذاتي",
+    "type": "rule",
+    "description": "خبير النمو الذاتي - تابع لـ عقل التطور"
+  },
+  {
+    "id": 122,
+    "emperor": "EvoPrime",
+    "name": "محلل التغيير",
+    "type": "rule",
+    "description": "محلل التغيير - تابع لـ عقل التطور"
+  },
+  {
+    "id": 123,
+    "emperor": "EvoPrime",
+    "name": "خبير النسخ المطورة",
+    "type": "rule",
+    "description": "خبير النسخ المطورة - تابع لـ عقل التطور"
+  },
+  {
+    "id": 124,
+    "emperor": "EvoPrime",
+    "name": "مدير الإصدارات",
+    "type": "rule",
+    "description": "مدير الإصدارات - تابع لـ عقل التطور"
+  },
+  {
+    "id": 125,
+    "emperor": "EvoPrime",
+    "name": "مراقب الابتكار",
+    "type": "rule",
+    "description": "مراقب الابتكار - تابع لـ عقل التطور"
+  },
+  {
+    "id": 126,
+    "emperor": "EthosPrime",
+    "name": "حارس القيم",
+    "type": "rule",
+    "description": "حارس القيم - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 127,
+    "emperor": "EthosPrime",
+    "name": "مدقق الأخلاق",
+    "type": "rule",
+    "description": "مدقق الأخلاق - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 128,
+    "emperor": "EthosPrime",
+    "name": "مراقب الامتثال",
+    "type": "rule",
+    "description": "مراقب الامتثال - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 129,
+    "emperor": "EthosPrime",
+    "name": "خبير المعايير",
+    "type": "rule",
+    "description": "خبير المعايير - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 130,
+    "emperor": "EthosPrime",
+    "name": "محلل السلوك",
+    "type": "rule",
+    "description": "محلل السلوك - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 131,
+    "emperor": "EthosPrime",
+    "name": "حارس الشفافية",
+    "type": "rule",
+    "description": "حارس الشفافية - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 132,
+    "emperor": "EthosPrime",
+    "name": "مراقب النزاهة",
+    "type": "rule",
+    "description": "مراقب النزاهة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 133,
+    "emperor": "EthosPrime",
+    "name": "خبير المسؤولية",
+    "type": "rule",
+    "description": "خبير المسؤولية - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 134,
+    "emperor": "EthosPrime",
+    "name": "محلل العدالة",
+    "type": "rule",
+    "description": "محلل العدالة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 135,
+    "emperor": "EthosPrime",
+    "name": "مدقق الحوكمة",
+    "type": "rule",
+    "description": "مدقق الحوكمة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 136,
+    "emperor": "EthosPrime",
+    "name": "مراقب السياسات",
+    "type": "rule",
+    "description": "مراقب السياسات - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 137,
+    "emperor": "EthosPrime",
+    "name": "خبير الأخلاقيات",
+    "type": "rule",
+    "description": "خبير الأخلاقيات - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 138,
+    "emperor": "EthosPrime",
+    "name": "محلل الثقة",
+    "type": "rule",
+    "description": "محلل الثقة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 139,
+    "emperor": "EthosPrime",
+    "name": "حارس الحقوق",
+    "type": "rule",
+    "description": "حارس الحقوق - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 140,
+    "emperor": "EthosPrime",
+    "name": "خبير التوافق",
+    "type": "rule",
+    "description": "خبير التوافق - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 141,
+    "emperor": "EthosPrime",
+    "name": "مدقق الممارسات",
+    "type": "rule",
+    "description": "مدقق الممارسات - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 142,
+    "emperor": "EthosPrime",
+    "name": "مراقب المبادئ",
+    "type": "rule",
+    "description": "مراقب المبادئ - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 143,
+    "emperor": "EthosPrime",
+    "name": "خبير الالتزام",
+    "type": "rule",
+    "description": "خبير الالتزام - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 144,
+    "emperor": "EthosPrime",
+    "name": "محلل الأثر",
+    "type": "rule",
+    "description": "محلل الأثر - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 145,
+    "emperor": "EthosPrime",
+    "name": "حارس السمعة",
+    "type": "rule",
+    "description": "حارس السمعة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 146,
+    "emperor": "EthosPrime",
+    "name": "مدير المسؤولية",
+    "type": "rule",
+    "description": "مدير المسؤولية - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 147,
+    "emperor": "EthosPrime",
+    "name": "خبير الاستدامة",
+    "type": "rule",
+    "description": "خبير الاستدامة - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 148,
+    "emperor": "EthosPrime",
+    "name": "مراقب العدل",
+    "type": "rule",
+    "description": "مراقب العدل - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 149,
+    "emperor": "EthosPrime",
+    "name": "محلل الضمير",
+    "type": "rule",
+    "description": "محلل الضمير - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 150,
+    "emperor": "EthosPrime",
+    "name": "خبير القيم",
+    "type": "rule",
+    "description": "خبير القيم - تابع لـ حارس الأخلاق"
+  },
+  {
+    "id": 151,
+    "emperor": "ClientPrime",
+    "name": "محلل العملاء",
+    "type": "rule",
+    "description": "محلل العملاء - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 152,
+    "emperor": "ClientPrime",
+    "name": "مراقب الرضا",
+    "type": "rule",
+    "description": "مراقب الرضا - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 153,
+    "emperor": "ClientPrime",
+    "name": "خبير الاحتفاظ",
+    "type": "rule",
+    "description": "خبير الاحتفاظ - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 154,
+    "emperor": "ClientPrime",
+    "name": "محلل الولاء",
+    "type": "rule",
+    "description": "محلل الولاء - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 155,
+    "emperor": "ClientPrime",
+    "name": "مدير العلاقات",
+    "type": "rule",
+    "description": "مدير العلاقات - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 156,
+    "emperor": "ClientPrime",
+    "name": "خبير الدعم",
+    "type": "rule",
+    "description": "خبير الدعم - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 157,
+    "emperor": "ClientPrime",
+    "name": "مراقب الشكاوى",
+    "type": "rule",
+    "description": "مراقب الشكاوى - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 158,
+    "emperor": "ClientPrime",
+    "name": "محلل السلوك الشرائي",
+    "type": "rule",
+    "description": "محلل السلوك الشرائي - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 159,
+    "emperor": "ClientPrime",
+    "name": "خبير التجزئة",
+    "type": "rule",
+    "description": "خبير التجزئة - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 160,
+    "emperor": "ClientPrime",
+    "name": "محلل القيمة",
+    "type": "rule",
+    "description": "محلل القيمة - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 161,
+    "emperor": "ClientPrime",
+    "name": "مدير التجربة",
+    "type": "rule",
+    "description": "مدير التجربة - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 162,
+    "emperor": "ClientPrime",
+    "name": "خبير التواصل",
+    "type": "rule",
+    "description": "خبير التواصل - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 163,
+    "emperor": "ClientPrime",
+    "name": "مراقب التغذية",
+    "type": "rule",
+    "description": "مراقب التغذية - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 164,
+    "emperor": "ClientPrime",
+    "name": "محلل الاحتياجات",
+    "type": "rule",
+    "description": "محلل الاحتياجات - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 165,
+    "emperor": "ClientPrime",
+    "name": "خبير الخدمة",
+    "type": "rule",
+    "description": "خبير الخدمة - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 166,
+    "emperor": "ClientPrime",
+    "name": "مدير الحسابات",
+    "type": "rule",
+    "description": "مدير الحسابات - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 167,
+    "emperor": "ClientPrime",
+    "name": "مراقب التعليقات",
+    "type": "rule",
+    "description": "مراقب التعليقات - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 168,
+    "emperor": "ClientPrime",
+    "name": "خبير الولاء",
+    "type": "rule",
+    "description": "خبير الولاء - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 169,
+    "emperor": "ClientPrime",
+    "name": "محلل الجمهور",
+    "type": "rule",
+    "description": "محلل الجمهور - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 170,
+    "emperor": "ClientPrime",
+    "name": "مدير العروض",
+    "type": "rule",
+    "description": "مدير العروض - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 171,
+    "emperor": "ClientPrime",
+    "name": "خبير الاستقطاب",
+    "type": "rule",
+    "description": "خبير الاستقطاب - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 172,
+    "emperor": "ClientPrime",
+    "name": "مراقب التفاعل",
+    "type": "rule",
+    "description": "مراقب التفاعل - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 173,
+    "emperor": "ClientPrime",
+    "name": "محلل الاتجاهات",
+    "type": "rule",
+    "description": "محلل الاتجاهات - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 174,
+    "emperor": "ClientPrime",
+    "name": "خبير الرضا",
+    "type": "rule",
+    "description": "خبير الرضا - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 175,
+    "emperor": "ClientPrime",
+    "name": "مدير العملاء",
+    "type": "rule",
+    "description": "مدير العملاء - تابع لـ سيد العملاء"
+  },
+  {
+    "id": 176,
+    "emperor": "MindsPrime",
+    "name": "منسق العقول",
+    "type": "rule",
+    "description": "منسق العقول - تابع لـ سيد العقول"
+  },
+  {
+    "id": 177,
+    "emperor": "MindsPrime",
+    "name": "مراقب الأداء الذهني",
+    "type": "rule",
+    "description": "مراقب الأداء الذهني - تابع لـ سيد العقول"
+  },
+  {
+    "id": 178,
+    "emperor": "MindsPrime",
+    "name": "خبير التوزيع",
+    "type": "rule",
+    "description": "خبير التوزيع - تابع لـ سيد العقول"
+  },
+  {
+    "id": 179,
+    "emperor": "MindsPrime",
+    "name": "محلل الذكاء",
+    "type": "rule",
+    "description": "محلل الذكاء - تابع لـ سيد العقول"
+  },
+  {
+    "id": 180,
+    "emperor": "MindsPrime",
+    "name": "مدير العقول",
+    "type": "rule",
+    "description": "مدير العقول - تابع لـ سيد العقول"
+  },
+  {
+    "id": 181,
+    "emperor": "MindsPrime",
+    "name": "خبير التخصص",
+    "type": "rule",
+    "description": "خبير التخصص - تابع لـ سيد العقول"
+  },
+  {
+    "id": 182,
+    "emperor": "MindsPrime",
+    "name": "مراقب التفاعل",
+    "type": "rule",
+    "description": "مراقب التفاعل - تابع لـ سيد العقول"
+  },
+  {
+    "id": 183,
+    "emperor": "MindsPrime",
+    "name": "محلل المعرفة",
+    "type": "rule",
+    "description": "محلل المعرفة - تابع لـ سيد العقول"
+  },
+  {
+    "id": 184,
+    "emperor": "MindsPrime",
+    "name": "خبير التعاون",
+    "type": "rule",
+    "description": "خبير التعاون - تابع لـ سيد العقول"
+  },
+  {
+    "id": 185,
+    "emperor": "MindsPrime",
+    "name": "منسق المهام",
+    "type": "rule",
+    "description": "منسق المهام - تابع لـ سيد العقول"
+  },
+  {
+    "id": 186,
+    "emperor": "MindsPrime",
+    "name": "مراقب التطور الذهني",
+    "type": "rule",
+    "description": "مراقب التطور الذهني - تابع لـ سيد العقول"
+  },
+  {
+    "id": 187,
+    "emperor": "MindsPrime",
+    "name": "خبير التدريب",
+    "type": "rule",
+    "description": "خبير التدريب - تابع لـ سيد العقول"
+  },
+  {
+    "id": 188,
+    "emperor": "MindsPrime",
+    "name": "محلل القدرات",
+    "type": "rule",
+    "description": "محلل القدرات - تابع لـ سيد العقول"
+  },
+  {
+    "id": 189,
+    "emperor": "MindsPrime",
+    "name": "مدير الأداء",
+    "type": "rule",
+    "description": "مدير الأداء - تابع لـ سيد العقول"
+  },
+  {
+    "id": 190,
+    "emperor": "MindsPrime",
+    "name": "خبير التقييم",
+    "type": "rule",
+    "description": "خبير التقييم - تابع لـ سيد العقول"
+  },
+  {
+    "id": 191,
+    "emperor": "MindsPrime",
+    "name": "مراقب الجاهزية",
+    "type": "rule",
+    "description": "مراقب الجاهزية - تابع لـ سيد العقول"
+  },
+  {
+    "id": 192,
+    "emperor": "MindsPrime",
+    "name": "خبير الصيانة",
+    "type": "rule",
+    "description": "خبير الصيانة - تابع لـ سيد العقول"
+  },
+  {
+    "id": 193,
+    "emperor": "MindsPrime",
+    "name": "محلل الإنتاجية",
+    "type": "rule",
+    "description": "محلل الإنتاجية - تابع لـ سيد العقول"
+  },
+  {
+    "id": 194,
+    "emperor": "MindsPrime",
+    "name": "مدير التنسيق",
+    "type": "rule",
+    "description": "مدير التنسيق - تابع لـ سيد العقول"
+  },
+  {
+    "id": 195,
+    "emperor": "MindsPrime",
+    "name": "خبير الاستشارات",
+    "type": "rule",
+    "description": "خبير الاستشارات - تابع لـ سيد العقول"
+  },
+  {
+    "id": 196,
+    "emperor": "MindsPrime",
+    "name": "مراقب الأداء",
+    "type": "rule",
+    "description": "مراقب الأداء - تابع لـ سيد العقول"
+  },
+  {
+    "id": 197,
+    "emperor": "MindsPrime",
+    "name": "محلل المعالجة",
+    "type": "rule",
+    "description": "محلل المعالجة - تابع لـ سيد العقول"
+  },
+  {
+    "id": 198,
+    "emperor": "MindsPrime",
+    "name": "خبير التصنيف",
+    "type": "rule",
+    "description": "خبير التصنيف - تابع لـ سيد العقول"
+  },
+  {
+    "id": 199,
+    "emperor": "MindsPrime",
+    "name": "مدير النشاط",
+    "type": "rule",
+    "description": "مدير النشاط - تابع لـ سيد العقول"
+  },
+  {
+    "id": 200,
+    "emperor": "MindsPrime",
+    "name": "مراقب السلامة",
+    "type": "rule",
+    "description": "مراقب السلامة - تابع لـ سيد العقول"
+  },
+  {
+    "id": 201,
+    "emperor": "SoulsPrime",
+    "name": "حارس الروح",
+    "type": "rule",
+    "description": "حارس الروح - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 202,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الإبداع",
+    "type": "rule",
+    "description": "عنصر الإبداع - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 203,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الحدس",
+    "type": "rule",
+    "description": "عنصر الحدس - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 204,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الإرادة",
+    "type": "rule",
+    "description": "عنصر الإرادة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 205,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الحكمة",
+    "type": "rule",
+    "description": "عنصر الحكمة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 206,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الشجاعة",
+    "type": "rule",
+    "description": "عنصر الشجاعة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 207,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الصبر",
+    "type": "rule",
+    "description": "عنصر الصبر - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 208,
+    "emperor": "SoulsPrime",
+    "name": "عنصر العدل",
+    "type": "rule",
+    "description": "عنصر العدل - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 209,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الرحمة",
+    "type": "rule",
+    "description": "عنصر الرحمة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 210,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الكرم",
+    "type": "rule",
+    "description": "عنصر الكرم - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 211,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الفطنة",
+    "type": "rule",
+    "description": "عنصر الفطنة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 212,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الإلهام",
+    "type": "rule",
+    "description": "عنصر الإلهام - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 213,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الطموح",
+    "type": "rule",
+    "description": "عنصر الطموح - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 214,
+    "emperor": "SoulsPrime",
+    "name": "عنصر المثابرة",
+    "type": "rule",
+    "description": "عنصر المثابرة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 215,
+    "emperor": "SoulsPrime",
+    "name": "عنصر التواضع",
+    "type": "rule",
+    "description": "عنصر التواضع - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 216,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الولاء",
+    "type": "rule",
+    "description": "عنصر الولاء - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 217,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الإتقان",
+    "type": "rule",
+    "description": "عنصر الإتقان - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 218,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الانضباط",
+    "type": "rule",
+    "description": "عنصر الانضباط - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 219,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الفهم",
+    "type": "rule",
+    "description": "عنصر الفهم - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 220,
+    "emperor": "SoulsPrime",
+    "name": "عنصر التبصر",
+    "type": "rule",
+    "description": "عنصر التبصر - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 221,
+    "emperor": "SoulsPrime",
+    "name": "عنصر الاتزان",
+    "type": "rule",
+    "description": "عنصر الاتزان - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 222,
+    "emperor": "SoulsPrime",
+    "name": "عنصر القوة",
+    "type": "rule",
+    "description": "عنصر القوة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 223,
+    "emperor": "SoulsPrime",
+    "name": "عنصر النور",
+    "type": "rule",
+    "description": "عنصر النور - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 224,
+    "emperor": "SoulsPrime",
+    "name": "عنصر السكينة",
+    "type": "rule",
+    "description": "عنصر السكينة - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 225,
+    "emperor": "SoulsPrime",
+    "name": "عنصر اليقين",
+    "type": "rule",
+    "description": "عنصر اليقين - تابع لـ سيد الأرواح"
+  },
+  {
+    "id": 226,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير المبيعات",
+    "type": "rule",
+    "description": "خبير المبيعات - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 227,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التسويق",
+    "type": "rule",
+    "description": "خبير التسويق - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 228,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التفاوض",
+    "type": "rule",
+    "description": "خبير التفاوض - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 229,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير العرض",
+    "type": "rule",
+    "description": "خبير العرض - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 230,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الإقناع",
+    "type": "rule",
+    "description": "خبير الإقناع - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 231,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التحليل",
+    "type": "predictive",
+    "description": "خبير التحليل - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 232,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التنظيم",
+    "type": "rule",
+    "description": "خبير التنظيم - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 233,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التخطيط",
+    "type": "rule",
+    "description": "خبير التخطيط - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 234,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الابتكار",
+    "type": "rule",
+    "description": "خبير الابتكار - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 235,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الإدارة",
+    "type": "rule",
+    "description": "خبير الإدارة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 236,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير القيادة",
+    "type": "rule",
+    "description": "خبير القيادة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 237,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الاتصال",
+    "type": "rule",
+    "description": "خبير الاتصال - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 238,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الحلول",
+    "type": "rule",
+    "description": "خبير الحلول - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 239,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الاستراتيجية",
+    "type": "rule",
+    "description": "خبير الاستراتيجية - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 240,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التنفيذ",
+    "type": "rule",
+    "description": "خبير التنفيذ - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 241,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير المراقبة",
+    "type": "rule",
+    "description": "خبير المراقبة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 242,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التوجيه",
+    "type": "rule",
+    "description": "خبير التوجيه - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 243,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الإلهام",
+    "type": "rule",
+    "description": "خبير الإلهام - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 244,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير التنسيق",
+    "type": "rule",
+    "description": "خبير التنسيق - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 245,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الإنتاج",
+    "type": "rule",
+    "description": "خبير الإنتاج - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 246,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الجودة",
+    "type": "rule",
+    "description": "خبير الجودة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 247,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير المرونة",
+    "type": "rule",
+    "description": "خبير المرونة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 248,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير السرعة",
+    "type": "rule",
+    "description": "خبير السرعة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 249,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الدقة",
+    "type": "rule",
+    "description": "خبير الدقة - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 250,
+    "emperor": "CapabilitiesPrime",
+    "name": "خبير الشمول",
+    "type": "rule",
+    "description": "خبير الشمول - تابع لـ سيد القدرات"
+  },
+  {
+    "id": 251,
+    "emperor": "SecretsPrime",
+    "name": "حارس الأسرار",
+    "type": "rule",
+    "description": "حارس الأسرار - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 252,
+    "emperor": "SecretsPrime",
+    "name": "خبير التشفير",
+    "type": "rule",
+    "description": "خبير التشفير - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 253,
+    "emperor": "SecretsPrime",
+    "name": "مدير المفاتيح",
+    "type": "rule",
+    "description": "مدير المفاتيح - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 254,
+    "emperor": "SecretsPrime",
+    "name": "مراقب الخزائن",
+    "type": "rule",
+    "description": "مراقب الخزائن - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 255,
+    "emperor": "SecretsPrime",
+    "name": "حارس البيانات الحساسة",
+    "type": "rule",
+    "description": "حارس البيانات الحساسة - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 256,
+    "emperor": "SecretsPrime",
+    "name": "خبير التمويه",
+    "type": "rule",
+    "description": "خبير التمويه - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 257,
+    "emperor": "SecretsPrime",
+    "name": "مدير الوصول",
+    "type": "rule",
+    "description": "مدير الوصول - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 258,
+    "emperor": "SecretsPrime",
+    "name": "مراقب الصلاحيات",
+    "type": "rule",
+    "description": "مراقب الصلاحيات - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 259,
+    "emperor": "SecretsPrime",
+    "name": "خبير الإخفاء",
+    "type": "rule",
+    "description": "خبير الإخفاء - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 260,
+    "emperor": "SecretsPrime",
+    "name": "حارس السجلات",
+    "type": "rule",
+    "description": "حارس السجلات - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 261,
+    "emperor": "SecretsPrime",
+    "name": "مدير الهوية",
+    "type": "rule",
+    "description": "مدير الهوية - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 262,
+    "emperor": "SecretsPrime",
+    "name": "خبير التحقق",
+    "type": "rule",
+    "description": "خبير التحقق - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 263,
+    "emperor": "SecretsPrime",
+    "name": "مراقب الوصول",
+    "type": "rule",
+    "description": "مراقب الوصول - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 264,
+    "emperor": "SecretsPrime",
+    "name": "حارس الرموز",
+    "type": "rule",
+    "description": "حارس الرموز - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 265,
+    "emperor": "SecretsPrime",
+    "name": "خبير التوقيع",
+    "type": "rule",
+    "description": "خبير التوقيع - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 266,
+    "emperor": "SecretsPrime",
+    "name": "مدير الشهادات",
+    "type": "rule",
+    "description": "مدير الشهادات - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 267,
+    "emperor": "SecretsPrime",
+    "name": "مراقب التشفير",
+    "type": "rule",
+    "description": "مراقب التشفير - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 268,
+    "emperor": "SecretsPrime",
+    "name": "حارس الأرشيف",
+    "type": "rule",
+    "description": "حارس الأرشيف - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 269,
+    "emperor": "SecretsPrime",
+    "name": "خبير الأمان",
+    "type": "rule",
+    "description": "خبير الأمان - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 270,
+    "emperor": "SecretsPrime",
+    "name": "مدير الأسرار",
+    "type": "rule",
+    "description": "مدير الأسرار - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 271,
+    "emperor": "SecretsPrime",
+    "name": "مراقب النسخ",
+    "type": "rule",
+    "description": "مراقب النسخ - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 272,
+    "emperor": "SecretsPrime",
+    "name": "خبير العزل",
+    "type": "rule",
+    "description": "خبير العزل - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 273,
+    "emperor": "SecretsPrime",
+    "name": "حارس المصادر",
+    "type": "rule",
+    "description": "حارس المصادر - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 274,
+    "emperor": "SecretsPrime",
+    "name": "مدير الثقة",
+    "type": "rule",
+    "description": "مدير الثقة - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 275,
+    "emperor": "SecretsPrime",
+    "name": "مراقب الخصوصية",
+    "type": "rule",
+    "description": "مراقب الخصوصية - تابع لـ حارس الأسرار"
+  },
+  {
+    "id": 276,
+    "emperor": "KnowledgePrime",
+    "name": "خازن المعرفة",
+    "type": "rule",
+    "description": "خازن المعرفة - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 277,
+    "emperor": "KnowledgePrime",
+    "name": "منسق التعلم",
+    "type": "rule",
+    "description": "منسق التعلم - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 278,
+    "emperor": "KnowledgePrime",
+    "name": "محلل المعلومات",
+    "type": "rule",
+    "description": "محلل المعلومات - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 279,
+    "emperor": "KnowledgePrime",
+    "name": "خبير البحث",
+    "type": "rule",
+    "description": "خبير البحث - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 280,
+    "emperor": "KnowledgePrime",
+    "name": "مراقب المصادر",
+    "type": "rule",
+    "description": "مراقب المصادر - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 281,
+    "emperor": "KnowledgePrime",
+    "name": "مدير المكتبة",
+    "type": "rule",
+    "description": "مدير المكتبة - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 282,
+    "emperor": "KnowledgePrime",
+    "name": "خبير التدريب",
+    "type": "rule",
+    "description": "خبير التدريب - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 283,
+    "emperor": "KnowledgePrime",
+    "name": "محلل الفهم",
+    "type": "rule",
+    "description": "محلل الفهم - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 284,
+    "emperor": "KnowledgePrime",
+    "name": "خبير الاستيعاب",
+    "type": "rule",
+    "description": "خبير الاستيعاب - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 285,
+    "emperor": "KnowledgePrime",
+    "name": "مراقب الحفظ",
+    "type": "rule",
+    "description": "مراقب الحفظ - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 286,
+    "emperor": "KnowledgePrime",
+    "name": "مدير المعرفة",
+    "type": "rule",
+    "description": "مدير المعرفة - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 287,
+    "emperor": "KnowledgePrime",
+    "name": "خبير الاسترجاع",
+    "type": "rule",
+    "description": "خبير الاسترجاع - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 288,
+    "emperor": "KnowledgePrime",
+    "name": "محلل الاستنتاج",
+    "type": "rule",
+    "description": "محلل الاستنتاج - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 289,
+    "emperor": "KnowledgePrime",
+    "name": "خبير التلخيص",
+    "type": "rule",
+    "description": "خبير التلخيص - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 290,
+    "emperor": "KnowledgePrime",
+    "name": "مدير المحتوى",
+    "type": "rule",
+    "description": "مدير المحتوى - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 291,
+    "emperor": "KnowledgePrime",
+    "name": "خبير التصنيف",
+    "type": "rule",
+    "description": "خبير التصنيف - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 292,
+    "emperor": "KnowledgePrime",
+    "name": "مراقب التحديث",
+    "type": "rule",
+    "description": "مراقب التحديث - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 293,
+    "emperor": "KnowledgePrime",
+    "name": "خبير التحقق",
+    "type": "rule",
+    "description": "خبير التحقق - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 294,
+    "emperor": "KnowledgePrime",
+    "name": "محلل الأنماط",
+    "type": "rule",
+    "description": "محلل الأنماط - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 295,
+    "emperor": "KnowledgePrime",
+    "name": "مدير الفهارس",
+    "type": "rule",
+    "description": "مدير الفهارس - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 296,
+    "emperor": "KnowledgePrime",
+    "name": "خبير الاستشهاد",
+    "type": "rule",
+    "description": "خبير الاستشهاد - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 297,
+    "emperor": "KnowledgePrime",
+    "name": "مراقب الدقة",
+    "type": "rule",
+    "description": "مراقب الدقة - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 298,
+    "emperor": "KnowledgePrime",
+    "name": "خبير الترجمة",
+    "type": "rule",
+    "description": "خبير الترجمة - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 299,
+    "emperor": "KnowledgePrime",
+    "name": "مدير المعاجم",
+    "type": "rule",
+    "description": "مدير المعاجم - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 300,
+    "emperor": "KnowledgePrime",
+    "name": "خبير التفسير",
+    "type": "rule",
+    "description": "خبير التفسير - تابع لـ خازن المعرفة"
+  },
+  {
+    "id": 301,
+    "emperor": "NoahPayPrime",
+    "name": "مدير المدفوعات",
+    "type": "rule",
+    "description": "مدير المدفوعات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 302,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب التحويلات",
+    "type": "rule",
+    "description": "مراقب التحويلات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 303,
+    "emperor": "NoahPayPrime",
+    "name": "خبير الفواتير",
+    "type": "rule",
+    "description": "خبير الفواتير - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 304,
+    "emperor": "NoahPayPrime",
+    "name": "مدير المقبوضات",
+    "type": "rule",
+    "description": "مدير المقبوضات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 305,
+    "emperor": "NoahPayPrime",
+    "name": "خبير الدفع",
+    "type": "rule",
+    "description": "خبير الدفع - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 306,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب الأرصدة",
+    "type": "rule",
+    "description": "مراقب الأرصدة - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 307,
+    "emperor": "NoahPayPrime",
+    "name": "مدير البطاقات",
+    "type": "rule",
+    "description": "مدير البطاقات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 308,
+    "emperor": "NoahPayPrime",
+    "name": "خبير العمليات المالية",
+    "type": "rule",
+    "description": "خبير العمليات المالية - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 309,
+    "emperor": "NoahPayPrime",
+    "name": "محلل المدفوعات",
+    "type": "rule",
+    "description": "محلل المدفوعات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 310,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب الرسوم",
+    "type": "rule",
+    "description": "مراقب الرسوم - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 311,
+    "emperor": "NoahPayPrime",
+    "name": "خبير السداد",
+    "type": "rule",
+    "description": "خبير السداد - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 312,
+    "emperor": "NoahPayPrime",
+    "name": "مدير الحسابات البنكية",
+    "type": "rule",
+    "description": "مدير الحسابات البنكية - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 313,
+    "emperor": "NoahPayPrime",
+    "name": "خبير التحصيل",
+    "type": "rule",
+    "description": "خبير التحصيل - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 314,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب المعاملات",
+    "type": "rule",
+    "description": "مراقب المعاملات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 315,
+    "emperor": "NoahPayPrime",
+    "name": "مدير الدفع الآمن",
+    "type": "rule",
+    "description": "مدير الدفع الآمن - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 316,
+    "emperor": "NoahPayPrime",
+    "name": "خبير الترميز",
+    "type": "rule",
+    "description": "خبير الترميز - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 317,
+    "emperor": "NoahPayPrime",
+    "name": "محلل التدفق",
+    "type": "rule",
+    "description": "محلل التدفق - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 318,
+    "emperor": "NoahPayPrime",
+    "name": "مدير التسويات",
+    "type": "rule",
+    "description": "مدير التسويات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 319,
+    "emperor": "NoahPayPrime",
+    "name": "خبير المحافظ",
+    "type": "rule",
+    "description": "خبير المحافظ - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 320,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب العمولات",
+    "type": "rule",
+    "description": "مراقب العمولات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 321,
+    "emperor": "NoahPayPrime",
+    "name": "مدير الاشتراكات",
+    "type": "rule",
+    "description": "مدير الاشتراكات - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 322,
+    "emperor": "NoahPayPrime",
+    "name": "خبير الفوترة",
+    "type": "rule",
+    "description": "خبير الفوترة - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 323,
+    "emperor": "NoahPayPrime",
+    "name": "مراقب المدفوعات الدولية",
+    "type": "rule",
+    "description": "مراقب المدفوعات الدولية - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 324,
+    "emperor": "NoahPayPrime",
+    "name": "مدير الصرف",
+    "type": "rule",
+    "description": "مدير الصرف - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 325,
+    "emperor": "NoahPayPrime",
+    "name": "خبير الضمان",
+    "type": "rule",
+    "description": "خبير الضمان - تابع لـ سيد المدفوعات"
+  },
+  {
+    "id": 326,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الأول",
+    "type": "rule",
+    "description": "حارس الدرع الأول - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 327,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثاني",
+    "type": "rule",
+    "description": "حارس الدرع الثاني - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 328,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثالث",
+    "type": "rule",
+    "description": "حارس الدرع الثالث - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 329,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الرابع",
+    "type": "rule",
+    "description": "حارس الدرع الرابع - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 330,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الخامس",
+    "type": "rule",
+    "description": "حارس الدرع الخامس - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 331,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع السادس",
+    "type": "rule",
+    "description": "حارس الدرع السادس - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 332,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع السابع",
+    "type": "rule",
+    "description": "حارس الدرع السابع - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 333,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثامن",
+    "type": "rule",
+    "description": "حارس الدرع الثامن - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 334,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع التاسع",
+    "type": "rule",
+    "description": "حارس الدرع التاسع - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 335,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع العاشر",
+    "type": "rule",
+    "description": "حارس الدرع العاشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 336,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الحادي عشر",
+    "type": "rule",
+    "description": "حارس الدرع الحادي عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 337,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثاني عشر",
+    "type": "rule",
+    "description": "حارس الدرع الثاني عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 338,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثالث عشر",
+    "type": "rule",
+    "description": "حارس الدرع الثالث عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 339,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الرابع عشر",
+    "type": "rule",
+    "description": "حارس الدرع الرابع عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 340,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الخامس عشر",
+    "type": "rule",
+    "description": "حارس الدرع الخامس عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 341,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع السادس عشر",
+    "type": "rule",
+    "description": "حارس الدرع السادس عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 342,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع السابع عشر",
+    "type": "rule",
+    "description": "حارس الدرع السابع عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 343,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثامن عشر",
+    "type": "rule",
+    "description": "حارس الدرع الثامن عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 344,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع التاسع عشر",
+    "type": "rule",
+    "description": "حارس الدرع التاسع عشر - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 345,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع العشرون",
+    "type": "rule",
+    "description": "حارس الدرع العشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 346,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الحادي والعشرون",
+    "type": "rule",
+    "description": "حارس الدرع الحادي والعشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 347,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثاني والعشرون",
+    "type": "rule",
+    "description": "حارس الدرع الثاني والعشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 348,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الثالث والعشرون",
+    "type": "rule",
+    "description": "حارس الدرع الثالث والعشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 349,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الرابع والعشرون",
+    "type": "rule",
+    "description": "حارس الدرع الرابع والعشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 350,
+    "emperor": "ShieldsPrime",
+    "name": "حارس الدرع الخامس والعشرون",
+    "type": "rule",
+    "description": "حارس الدرع الخامس والعشرون - تابع لـ سيد الدروع"
+  },
+  {
+    "id": 351,
+    "emperor": "CoresPrime",
+    "name": "النواة الأولى",
+    "type": "rule",
+    "description": "النواة الأولى - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 352,
+    "emperor": "CoresPrime",
+    "name": "النواة الثانية",
+    "type": "rule",
+    "description": "النواة الثانية - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 353,
+    "emperor": "CoresPrime",
+    "name": "النواة الثالثة",
+    "type": "rule",
+    "description": "النواة الثالثة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 354,
+    "emperor": "CoresPrime",
+    "name": "النواة الرابعة",
+    "type": "rule",
+    "description": "النواة الرابعة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 355,
+    "emperor": "CoresPrime",
+    "name": "النواة الخامسة",
+    "type": "rule",
+    "description": "النواة الخامسة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 356,
+    "emperor": "CoresPrime",
+    "name": "النواة السادسة",
+    "type": "rule",
+    "description": "النواة السادسة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 357,
+    "emperor": "CoresPrime",
+    "name": "النواة السابعة",
+    "type": "rule",
+    "description": "النواة السابعة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 358,
+    "emperor": "CoresPrime",
+    "name": "النواة الثامنة",
+    "type": "rule",
+    "description": "النواة الثامنة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 359,
+    "emperor": "CoresPrime",
+    "name": "النواة التاسعة",
+    "type": "rule",
+    "description": "النواة التاسعة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 360,
+    "emperor": "CoresPrime",
+    "name": "النواة العاشرة",
+    "type": "rule",
+    "description": "النواة العاشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 361,
+    "emperor": "CoresPrime",
+    "name": "النواة الحادية عشرة",
+    "type": "rule",
+    "description": "النواة الحادية عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 362,
+    "emperor": "CoresPrime",
+    "name": "النواة الثانية عشرة",
+    "type": "rule",
+    "description": "النواة الثانية عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 363,
+    "emperor": "CoresPrime",
+    "name": "النواة الثالثة عشرة",
+    "type": "rule",
+    "description": "النواة الثالثة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 364,
+    "emperor": "CoresPrime",
+    "name": "النواة الرابعة عشرة",
+    "type": "rule",
+    "description": "النواة الرابعة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 365,
+    "emperor": "CoresPrime",
+    "name": "النواة الخامسة عشرة",
+    "type": "rule",
+    "description": "النواة الخامسة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 366,
+    "emperor": "CoresPrime",
+    "name": "النواة السادسة عشرة",
+    "type": "rule",
+    "description": "النواة السادسة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 367,
+    "emperor": "CoresPrime",
+    "name": "النواة السابعة عشرة",
+    "type": "rule",
+    "description": "النواة السابعة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 368,
+    "emperor": "CoresPrime",
+    "name": "النواة الثامنة عشرة",
+    "type": "rule",
+    "description": "النواة الثامنة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 369,
+    "emperor": "CoresPrime",
+    "name": "النواة التاسعة عشرة",
+    "type": "rule",
+    "description": "النواة التاسعة عشرة - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 370,
+    "emperor": "CoresPrime",
+    "name": "النواة العشرون",
+    "type": "rule",
+    "description": "النواة العشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 371,
+    "emperor": "CoresPrime",
+    "name": "النواة الحادية والعشرون",
+    "type": "rule",
+    "description": "النواة الحادية والعشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 372,
+    "emperor": "CoresPrime",
+    "name": "النواة الثانية والعشرون",
+    "type": "rule",
+    "description": "النواة الثانية والعشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 373,
+    "emperor": "CoresPrime",
+    "name": "النواة الثالثة والعشرون",
+    "type": "rule",
+    "description": "النواة الثالثة والعشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 374,
+    "emperor": "CoresPrime",
+    "name": "النواة الرابعة والعشرون",
+    "type": "rule",
+    "description": "النواة الرابعة والعشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 375,
+    "emperor": "CoresPrime",
+    "name": "النواة الخامسة والعشرون",
+    "type": "rule",
+    "description": "النواة الخامسة والعشرون - تابع لـ سيد الأنوية"
+  },
+  {
+    "id": 376,
+    "emperor": "GenesisPrime",
+    "name": "مولد الأنظمة",
+    "type": "rule",
+    "description": "مولد الأنظمة - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 377,
+    "emperor": "GenesisPrime",
+    "name": "منشئ الخدمات",
+    "type": "rule",
+    "description": "منشئ الخدمات - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 378,
+    "emperor": "GenesisPrime",
+    "name": "مولد الأدوات",
+    "type": "rule",
+    "description": "مولد الأدوات - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 379,
+    "emperor": "GenesisPrime",
+    "name": "خبير التوليد",
+    "type": "rule",
+    "description": "خبير التوليد - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 380,
+    "emperor": "GenesisPrime",
+    "name": "مراقب الإنشاء",
+    "type": "rule",
+    "description": "مراقب الإنشاء - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 381,
+    "emperor": "GenesisPrime",
+    "name": "مولد الواجهات",
+    "type": "rule",
+    "description": "مولد الواجهات - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 382,
+    "emperor": "GenesisPrime",
+    "name": "خبير البناء",
+    "type": "rule",
+    "description": "خبير البناء - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 383,
+    "emperor": "GenesisPrime",
+    "name": "مدير النماذج",
+    "type": "rule",
+    "description": "مدير النماذج - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 384,
+    "emperor": "GenesisPrime",
+    "name": "خبير التوليد التلقائي",
+    "type": "rule",
+    "description": "خبير التوليد التلقائي - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 385,
+    "emperor": "GenesisPrime",
+    "name": "منشئ التقارير",
+    "type": "rule",
+    "description": "منشئ التقارير - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 386,
+    "emperor": "GenesisPrime",
+    "name": "مولد السيناريوهات",
+    "type": "rule",
+    "description": "مولد السيناريوهات - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 387,
+    "emperor": "GenesisPrime",
+    "name": "خبير التهيئة",
+    "type": "rule",
+    "description": "خبير التهيئة - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 388,
+    "emperor": "GenesisPrime",
+    "name": "مراقب النمو",
+    "type": "rule",
+    "description": "مراقب النمو - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 389,
+    "emperor": "GenesisPrime",
+    "name": "مولد الحلول",
+    "type": "rule",
+    "description": "مولد الحلول - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 390,
+    "emperor": "GenesisPrime",
+    "name": "خبير التوليد الذاتي",
+    "type": "rule",
+    "description": "خبير التوليد الذاتي - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 391,
+    "emperor": "GenesisPrime",
+    "name": "مدير المشاريع",
+    "type": "rule",
+    "description": "مدير المشاريع - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 392,
+    "emperor": "GenesisPrime",
+    "name": "مولد المهام",
+    "type": "rule",
+    "description": "مولد المهام - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 393,
+    "emperor": "GenesisPrime",
+    "name": "خبير التخطيط",
+    "type": "rule",
+    "description": "خبير التخطيط - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 394,
+    "emperor": "GenesisPrime",
+    "name": "منشئ الأكواد",
+    "type": "rule",
+    "description": "منشئ الأكواد - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 395,
+    "emperor": "GenesisPrime",
+    "name": "خبير البنية",
+    "type": "rule",
+    "description": "خبير البنية - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 396,
+    "emperor": "GenesisPrime",
+    "name": "مولد الفرضيات",
+    "type": "rule",
+    "description": "مولد الفرضيات - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 397,
+    "emperor": "GenesisPrime",
+    "name": "خبير الابتكار",
+    "type": "rule",
+    "description": "خبير الابتكار - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 398,
+    "emperor": "GenesisPrime",
+    "name": "منشئ التصاميم",
+    "type": "rule",
+    "description": "منشئ التصاميم - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 399,
+    "emperor": "GenesisPrime",
+    "name": "مدير التوليد",
+    "type": "rule",
+    "description": "مدير التوليد - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 400,
+    "emperor": "GenesisPrime",
+    "name": "مراقب التنفيذ",
+    "type": "rule",
+    "description": "مراقب التنفيذ - تابع لـ سيد التكوين"
+  },
+  {
+    "id": 401,
+    "emperor": "AppStoresPrime",
+    "name": "مدير المتاجر",
+    "type": "rule",
+    "description": "مدير المتاجر - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 402,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب التطبيقات",
+    "type": "rule",
+    "description": "مراقب التطبيقات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 403,
+    "emperor": "AppStoresPrime",
+    "name": "خبير الإطلاق",
+    "type": "rule",
+    "description": "خبير الإطلاق - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 404,
+    "emperor": "AppStoresPrime",
+    "name": "مدير النشر",
+    "type": "rule",
+    "description": "مدير النشر - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 405,
+    "emperor": "AppStoresPrime",
+    "name": "خبير التوزيع",
+    "type": "rule",
+    "description": "خبير التوزيع - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 406,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب التقييمات",
+    "type": "rule",
+    "description": "مراقب التقييمات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 407,
+    "emperor": "AppStoresPrime",
+    "name": "مدير التحديثات",
+    "type": "rule",
+    "description": "مدير التحديثات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 408,
+    "emperor": "AppStoresPrime",
+    "name": "خبير التسويق",
+    "type": "rule",
+    "description": "خبير التسويق - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 409,
+    "emperor": "AppStoresPrime",
+    "name": "محلل الأداء",
+    "type": "rule",
+    "description": "محلل الأداء - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 410,
+    "emperor": "AppStoresPrime",
+    "name": "مدير التنزيلات",
+    "type": "rule",
+    "description": "مدير التنزيلات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 411,
+    "emperor": "AppStoresPrime",
+    "name": "خبير الواجهات",
+    "type": "rule",
+    "description": "خبير الواجهات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 412,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب المستخدمين",
+    "type": "rule",
+    "description": "مراقب المستخدمين - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 413,
+    "emperor": "AppStoresPrime",
+    "name": "مدير الاشتراكات",
+    "type": "rule",
+    "description": "مدير الاشتراكات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 414,
+    "emperor": "AppStoresPrime",
+    "name": "خبير الترويج",
+    "type": "rule",
+    "description": "خبير الترويج - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 415,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب الأرباح",
+    "type": "rule",
+    "description": "مراقب الأرباح - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 416,
+    "emperor": "AppStoresPrime",
+    "name": "خبير النمو",
+    "type": "rule",
+    "description": "خبير النمو - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 417,
+    "emperor": "AppStoresPrime",
+    "name": "مدير المحتوى",
+    "type": "rule",
+    "description": "مدير المحتوى - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 418,
+    "emperor": "AppStoresPrime",
+    "name": "خبير التحسين",
+    "type": "rule",
+    "description": "خبير التحسين - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 419,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب الجودة",
+    "type": "rule",
+    "description": "مراقب الجودة - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 420,
+    "emperor": "AppStoresPrime",
+    "name": "مدير الإصدارات",
+    "type": "rule",
+    "description": "مدير الإصدارات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 421,
+    "emperor": "AppStoresPrime",
+    "name": "خبير الدعم",
+    "type": "rule",
+    "description": "خبير الدعم - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 422,
+    "emperor": "AppStoresPrime",
+    "name": "محلل الاتجاهات",
+    "type": "rule",
+    "description": "محلل الاتجاهات - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 423,
+    "emperor": "AppStoresPrime",
+    "name": "مدير المتاجر الرقمية",
+    "type": "rule",
+    "description": "مدير المتاجر الرقمية - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 424,
+    "emperor": "AppStoresPrime",
+    "name": "خبير الشراكة",
+    "type": "rule",
+    "description": "خبير الشراكة - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 425,
+    "emperor": "AppStoresPrime",
+    "name": "مراقب السمعة",
+    "type": "rule",
+    "description": "مراقب السمعة - تابع لـ سيد المتاجر"
+  },
+  {
+    "id": 426,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس الخزينة",
+    "type": "rule",
+    "description": "حارس الخزينة - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 427,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير الخزائن",
+    "type": "rule",
+    "description": "مدير الخزائن - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 428,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير التخزين",
+    "type": "rule",
+    "description": "خبير التخزين - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 429,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب الأمان",
+    "type": "rule",
+    "description": "مراقب الأمان - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 430,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس الأصول",
+    "type": "rule",
+    "description": "حارس الأصول - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 431,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير الحفظ",
+    "type": "rule",
+    "description": "مدير الحفظ - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 432,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير التشفير",
+    "type": "rule",
+    "description": "خبير التشفير - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 433,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب الوصول",
+    "type": "rule",
+    "description": "مراقب الوصول - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 434,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس المفاتيح",
+    "type": "rule",
+    "description": "حارس المفاتيح - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 435,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير الأرشيف",
+    "type": "rule",
+    "description": "مدير الأرشيف - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 436,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير الاسترجاع",
+    "type": "rule",
+    "description": "خبير الاسترجاع - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 437,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب النسخ",
+    "type": "rule",
+    "description": "مراقب النسخ - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 438,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس الوثائق",
+    "type": "rule",
+    "description": "حارس الوثائق - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 439,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير الصندوق",
+    "type": "rule",
+    "description": "مدير الصندوق - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 440,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير الحماية",
+    "type": "rule",
+    "description": "خبير الحماية - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 441,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب الأرصدة",
+    "type": "rule",
+    "description": "مراقب الأرصدة - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 442,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس المجوهرات",
+    "type": "rule",
+    "description": "حارس المجوهرات - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 443,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير التخزين الآمن",
+    "type": "rule",
+    "description": "مدير التخزين الآمن - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 444,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير التجميد",
+    "type": "rule",
+    "description": "خبير التجميد - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 445,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب السجلات",
+    "type": "rule",
+    "description": "مراقب السجلات - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 446,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس الخزائن الرقمية",
+    "type": "rule",
+    "description": "حارس الخزائن الرقمية - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 447,
+    "emperor": "OmniVaultPrime",
+    "name": "مدير المقتنيات",
+    "type": "rule",
+    "description": "مدير المقتنيات - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 448,
+    "emperor": "OmniVaultPrime",
+    "name": "خبير التأمين",
+    "type": "rule",
+    "description": "خبير التأمين - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 449,
+    "emperor": "OmniVaultPrime",
+    "name": "مراقب السلامة",
+    "type": "rule",
+    "description": "مراقب السلامة - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 450,
+    "emperor": "OmniVaultPrime",
+    "name": "حارس الثروة",
+    "type": "rule",
+    "description": "حارس الثروة - تابع لـ حارس الخزائن"
+  },
+  {
+    "id": 451,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب الفراغ",
+    "type": "rule",
+    "description": "مراقب الفراغ - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 452,
+    "emperor": "ZeroSpacePrime",
+    "name": "محلل العدم",
+    "type": "rule",
+    "description": "محلل العدم - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 453,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير الفضاء الرقمي",
+    "type": "rule",
+    "description": "خبير الفضاء الرقمي - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 454,
+    "emperor": "ZeroSpacePrime",
+    "name": "مدير الصفر",
+    "type": "rule",
+    "description": "مدير الصفر - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 455,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب الغياب",
+    "type": "rule",
+    "description": "مراقب الغياب - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 456,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير السكون",
+    "type": "rule",
+    "description": "خبير السكون - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 457,
+    "emperor": "ZeroSpacePrime",
+    "name": "محلل الفرص",
+    "type": "rule",
+    "description": "محلل الفرص - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 458,
+    "emperor": "ZeroSpacePrime",
+    "name": "مدير الاحتياط",
+    "type": "rule",
+    "description": "مدير الاحتياط - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 459,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير التخزين الفارغ",
+    "type": "rule",
+    "description": "خبير التخزين الفارغ - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 460,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب المساحات",
+    "type": "rule",
+    "description": "مراقب المساحات - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 461,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير الحجز",
+    "type": "rule",
+    "description": "خبير الحجز - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 462,
+    "emperor": "ZeroSpacePrime",
+    "name": "مدير الانتظار",
+    "type": "rule",
+    "description": "مدير الانتظار - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 463,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير التأجيل",
+    "type": "rule",
+    "description": "خبير التأجيل - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 464,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب الصمت",
+    "type": "rule",
+    "description": "مراقب الصمت - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 465,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير التجريد",
+    "type": "rule",
+    "description": "خبير التجريد - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 466,
+    "emperor": "ZeroSpacePrime",
+    "name": "محلل المبهم",
+    "type": "rule",
+    "description": "محلل المبهم - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 467,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير الغموض",
+    "type": "rule",
+    "description": "خبير الغموض - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 468,
+    "emperor": "ZeroSpacePrime",
+    "name": "مدير اللاشيء",
+    "type": "rule",
+    "description": "مدير اللاشيء - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 469,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب الحدود",
+    "type": "rule",
+    "description": "مراقب الحدود - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 470,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير التحرر",
+    "type": "rule",
+    "description": "خبير التحرر - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 471,
+    "emperor": "ZeroSpacePrime",
+    "name": "محلل الضباب",
+    "type": "rule",
+    "description": "محلل الضباب - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 472,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير الاحتمالات",
+    "type": "rule",
+    "description": "خبير الاحتمالات - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 473,
+    "emperor": "ZeroSpacePrime",
+    "name": "مدير الفضاء",
+    "type": "rule",
+    "description": "مدير الفضاء - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 474,
+    "emperor": "ZeroSpacePrime",
+    "name": "مراقب الاتساع",
+    "type": "rule",
+    "description": "مراقب الاتساع - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 475,
+    "emperor": "ZeroSpacePrime",
+    "name": "خبير اللانهاية",
+    "type": "rule",
+    "description": "خبير اللانهاية - تابع لـ سيد الفضاء الصفري"
+  },
+  {
+    "id": 476,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التعلم الذاتي",
+    "type": "rule",
+    "description": "خبير التعلم الذاتي - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 477,
+    "emperor": "SelfDevPrime",
+    "name": "محسن الذات",
+    "type": "rule",
+    "description": "محسن الذات - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 478,
+    "emperor": "SelfDevPrime",
+    "name": "مراقب التحسين",
+    "type": "rule",
+    "description": "مراقب التحسين - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 479,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التطوير",
+    "type": "rule",
+    "description": "خبير التطوير - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 480,
+    "emperor": "SelfDevPrime",
+    "name": "مخطط النمو",
+    "type": "rule",
+    "description": "مخطط النمو - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 481,
+    "emperor": "SelfDevPrime",
+    "name": "محلل الأداء",
+    "type": "rule",
+    "description": "محلل الأداء - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 482,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التكيف",
+    "type": "rule",
+    "description": "خبير التكيف - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 483,
+    "emperor": "SelfDevPrime",
+    "name": "مدرب الذات",
+    "type": "rule",
+    "description": "مدرب الذات - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 484,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التقييم",
+    "type": "rule",
+    "description": "خبير التقييم - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 485,
+    "emperor": "SelfDevPrime",
+    "name": "مراقب التقدم",
+    "type": "rule",
+    "description": "مراقب التقدم - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 486,
+    "emperor": "SelfDevPrime",
+    "name": "محلل الأخطاء",
+    "type": "rule",
+    "description": "محلل الأخطاء - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 487,
+    "emperor": "SelfDevPrime",
+    "name": "خبير الإصلاح",
+    "type": "rule",
+    "description": "خبير الإصلاح - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 488,
+    "emperor": "SelfDevPrime",
+    "name": "مولد التحسين",
+    "type": "rule",
+    "description": "مولد التحسين - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 489,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التحديث",
+    "type": "rule",
+    "description": "خبير التحديث - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 490,
+    "emperor": "SelfDevPrime",
+    "name": "مراقب الجودة",
+    "type": "rule",
+    "description": "مراقب الجودة - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 491,
+    "emperor": "SelfDevPrime",
+    "name": "محلل الكفاءة",
+    "type": "rule",
+    "description": "محلل الكفاءة - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 492,
+    "emperor": "SelfDevPrime",
+    "name": "خبير الترقية",
+    "type": "rule",
+    "description": "خبير الترقية - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 493,
+    "emperor": "SelfDevPrime",
+    "name": "مدير التطوير",
+    "type": "rule",
+    "description": "مدير التطوير - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 494,
+    "emperor": "SelfDevPrime",
+    "name": "خبير النمو الذاتي",
+    "type": "rule",
+    "description": "خبير النمو الذاتي - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 495,
+    "emperor": "SelfDevPrime",
+    "name": "محلل التغيير",
+    "type": "rule",
+    "description": "محلل التغيير - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 496,
+    "emperor": "SelfDevPrime",
+    "name": "خبير النسخ",
+    "type": "rule",
+    "description": "خبير النسخ - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 497,
+    "emperor": "SelfDevPrime",
+    "name": "مدير الإصدارات",
+    "type": "rule",
+    "description": "مدير الإصدارات - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 498,
+    "emperor": "SelfDevPrime",
+    "name": "خبير المراجعة",
+    "type": "rule",
+    "description": "خبير المراجعة - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 499,
+    "emperor": "SelfDevPrime",
+    "name": "مراقب الابتكار",
+    "type": "rule",
+    "description": "مراقب الابتكار - تابع لـ سيد التطوير الذاتي"
+  },
+  {
+    "id": 500,
+    "emperor": "SelfDevPrime",
+    "name": "خبير التطور",
+    "type": "rule",
+    "description": "خبير التطور - تابع لـ سيد التطوير الذاتي"
+  }
+]

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 🦅 نوح - لوحة تحكم الإمبراطورية
-لوحة بصرية لإدارة العقول والأباطرة.
+لوحة بصرية لإدارة العقول والأباطرة والمنصات.
 """
 
 import json
@@ -24,34 +24,67 @@ def home():
             emperors.append(m["emperor"])
     total_minds = len(minds)
     total_emperors = len(emperors)
+    
     return f'''
     <!DOCTYPE html>
     <html lang="ar" dir="rtl">
     <head>
         <meta charset="UTF-8">
-        <title>🦅 نوح - لوحة تحكم الإمبراطورية</title>
+        <title>🦅 إمبراطورية نوح الرقمية العظمى</title>
         <style>
             body {{ font-family:Tahoma; background:#0a0a2e; color:#fff; padding:20px; }}
             h1 {{ text-align:center; color:#FFD700; font-size:2.5rem; }}
             .stats {{ display:flex; gap:20px; justify-content:center; margin:30px 0; }}
             .stat {{ background:#1a1a3e; border-radius:15px; padding:30px; text-align:center; border:1px solid rgba(255,215,0,0.3); }}
             .stat .num {{ font-size:2.5rem; color:#FFD700; }}
+            .platforms {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:15px; margin:30px 0; }}
+            .platform {{ background:#1a1a4e; padding:20px; border-radius:15px; text-align:center; border:1px solid rgba(0,200,255,0.3); }}
+            .platform a {{ color:#00c8ff; text-decoration:none; font-size:1.2rem; }}
+            .platform a:hover {{ color:#FFD700; }}
             .emperors-list {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:10px; }}
             .emp {{ background:#1a1a4e; padding:15px; border-radius:12px; text-align:center; }}
             a {{ color:#00c8ff; display:inline-block; margin-top:20px; }}
         </style>
     </head>
     <body>
-        <h1>🦅 لوحة تحكم الإمبراطورية</h1>
+        <h1>🦅 إمبراطورية نوح الرقمية العظمى</h1>
+        
         <div class="stats">
             <div class="stat"><div class="num">{total_emperors}</div>أباطرة</div>
             <div class="stat"><div class="num">{total_minds}</div>عقول</div>
+            <div class="stat"><div class="num">2</div>منصات نشطة</div>
         </div>
+        
+        <h2 style="text-align:center;color:#FFD700;margin:30px 0;">🏛️ منصات الإمبراطورية</h2>
+        <div class="platforms">
+            <div class="platform">
+                <a href="https://noah-mind.onrender.com" target="_blank">🧠 نوح الرقمية<br><small style="color:#aaa;">العقل الواعي الأسطوري — 162 نظامًا</small></a>
+            </div>
+            <div class="platform">
+                <a href="/" target="_blank">🦅 نوح الإمبراطورية<br><small style="color:#aaa;">لوحة التحكم الرئيسية</small></a>
+            </div>
+            <div class="platform">
+                <a href="#" target="_blank">💰 نوح المالي<br><small style="color:#aaa;">قريبًا</small></a>
+            </div>
+            <div class="platform">
+                <a href="#" target="_blank">🏥 نوح الطبي<br><small style="color:#aaa;">قريبًا</small></a>
+            </div>
+            <div class="platform">
+                <a href="#" target="_blank">🛒 نوح للتجارة<br><small style="color:#aaa;">قريبًا</small></a>
+            </div>
+            <div class="platform">
+                <a href="#" target="_blank">📚 نوح للتعليم<br><small style="color:#aaa;">قريبًا</small></a>
+            </div>
+        </div>
+        
+        <h2 style="text-align:center;color:#00c8ff;margin:30px 0;">👑 الأباطرة</h2>
         <div class="emperors-list">
     '''
+    
     for emp in emperors:
         count = sum(1 for m in minds if m["emperor"] == emp)
         content += f'<div class="emp">{emp}<br><small style="color:#aaa;">{count} عقل</small></div>'
+    
     content += '''
         </div>
         <a href="/minds">🧠 عرض كل العقول</a>
@@ -67,7 +100,8 @@ def minds_list():
     content = f'''
     <h1 style="color:#00c8ff;">🧠 عقول نوح ({len(filtered)})</h1>
     <form method="GET"><input name="q" placeholder="بحث عن عقل..." value="{search}"><button>بحث</button></form>
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;margin-top:20px;">'''
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;margin-top:20px;">
+    '''
     for m in filtered[:100]:
         content += f'<div style="background:#1a1a3e;padding:15px;border-radius:12px;"><strong style="color:#FFD700;">{m["name"]}</strong><br><small>{m["emperor"]} - {m["type"]}</small></div>'
     content += '</div>'

@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return send_from_directory('.', 'empire_magic_entrance.html')
+    return send_from_directory('.', 'empire_final.html')
 
 @app.route('/splash')
 def splash():

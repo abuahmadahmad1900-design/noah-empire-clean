@@ -43,8 +43,11 @@ def home():
             success = gen.create_from_template(tname)
             message = 'تم انشاء ' + tname + ' بنجاح' if success else 'فشل الانشاء'
         if request.form.get('batch_generate'):
-            created = gen.batch_generate(5)
-            message = 'تم توليد ' + str(created) + ' أنظمة جديدة'
+            created = gen.batch_generate(3)
+            if created > 0:
+                message = 'تم توليد ' + str(created) + ' أنظمة جديدة بنجاح'
+            else:
+                message = 'كل الأنواع موجودة مسبقًا'
         if request.form.get('auto_generate'):
             success = gen.auto_generate()
             message = 'تم التوليد التلقائي بنجاح' if success else 'كل الأنظمة موجودة'
@@ -693,3 +696,7 @@ def delete_system(system_id):
 if __name__ == '__main__':
     gen.init_db()
     app.run(host='0.0.0.0', port=5062)
+
+
+# تهيئة تلقائية عند استيراد الملف على Render
+gen.init_db()
